@@ -1,0 +1,13 @@
+﻿{
+  "FavoriteLocation": {
+    "Id": 0,
+    "Name": "Queen Creek",
+    "Admin1": "Arizona",
+    "Country": "United States",
+    "CountryCode": "US",
+    "Latitude": 33.2487,
+    "Longitude": -111.6343,
+    "Timezone": "America/Phoenix"
+  },
+  "SavedLocations": []
+}
